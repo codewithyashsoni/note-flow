@@ -10,7 +10,7 @@ The application uses **Firebase Authentication** for user authentication and **C
 
 ## 🌐 Live Demo
 
-🔗 **Live Demo:** [View NoteFlow](link_here)
+🔗 **Live Demo:** [View NoteFlow](https://noteflow-yash.netlify.app/)
 
 ---
 
